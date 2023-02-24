@@ -1,8 +1,14 @@
-.section{
-    background-color:rgb(200, 243, 243);
-    display: flex;
-    flex-direction: column;
+.header{border:solid lightblue;
+background-color:rgb(117, 133, 139);
+}
+#container-heading{ 
+    font: 'Courier New', monospace;
 
+}
+
+.body1{ 
+    
+}
     /* align-self: flex-start; */
 
 
