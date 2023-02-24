@@ -1,0 +1,9 @@
+.section{
+    background-color:rgb(200, 243, 243);
+    display: flex;
+    flex-direction: column;
+
+    /* align-self: flex-start; */
+
+
+}
